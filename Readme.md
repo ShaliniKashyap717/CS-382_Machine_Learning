@@ -7,7 +7,7 @@ The repository will be **continuously updated** as new algorithms are covered in
 
 ---
 
-## 📌 Contents
+## Contents
 
 The following algorithms are currently implemented:
 
@@ -19,7 +19,7 @@ More algorithms will be added progressively, including supervised and unsupervis
 
 ---
 
-## 🧠 Learning Objectives
+## Learning Objectives
 
 - Understand the **theoretical foundations** of machine learning algorithms  
 - Implement algorithms **from scratch** for better conceptual clarity  
@@ -28,7 +28,7 @@ More algorithms will be added progressively, including supervised and unsupervis
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 CS-382_Machine_Learning/
